@@ -2,7 +2,7 @@
   <script>
       if('serviceWorker' in navigator) {
         navigator.serviceWorker.register('https://arw9234.github.io/static-payloads/service-worker-test/sw_kickoff.js').then(function(reg) {
-          navigator.serviceWorker.register('https://arw9234.github.io/static-payloads/service-worker-test/sw_global.js', { scope: '/' });
+          navigator.serviceWorker.register('https://arw9234.github.io/static-payloads/service-worker-test/sw_global.js', { scope: 'https://arw9234.github.io/' });
         })
       } else {
         alert('Your browser does not support service workers and is not vulnerable to ');
