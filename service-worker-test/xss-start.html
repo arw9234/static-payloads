@@ -1,8 +1,8 @@
 <body>
   <script>
       if('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('static-payloads/service-worker-test/sw_kickoff.js').then(function(reg) {
-          navigator.serviceWorker.register('static-payloads/service-worker-test/sw_global.js', { scope: '/' });
+        navigator.serviceWorker.register('./static-payloads/service-worker-test/sw_kickoff.js').then(function(reg) {
+          navigator.serviceWorker.register(./'static-payloads/service-worker-test/sw_global.js', { scope: '/' });
         })
       } else {
         alert('Your browser does not support service workers and is not vulnerable to ');
