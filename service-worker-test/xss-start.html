@@ -1,0 +1,11 @@
+<body>
+  <script>
+      if('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('path/to/sw_kickoff.js').then(function(reg) {
+          navigator.serviceWorker.register('path/to/sw_global.js', { scope: '/' });
+        })
+      } else {
+        alert('Your browser does not support service workers and is not vulnerable to ');
+      }
+  </script>
+</body>
