@@ -34,7 +34,7 @@ self.addEventListener('fetch', event => {
 
 self.addEventListener('fetch', function(event) {
 	if(event.request.url.endsWith('sw_global.js'))
-		event.respondWith(new Response(sw_global_text, { status: 200, statusText: 'OK', headers: { 'Content-Type': 'text/javascript',  'service-worker-allowed': './' } }));
+		event.respondWith(new Response(sw_global_text, { status: 200, statusText: 'OK', headers: { 'Content-Type': 'text/javascript',  'service-worker-allowed': 'https://arw9234.github.io/' } }));
 	else
 		event.respondWith(fetch(event.request));
 });
