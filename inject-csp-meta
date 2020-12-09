@@ -1,4 +1,0 @@
-let n = window.top.document.createElement('meta');
-n.setAttribute('http-equiv', 'Content-Security-Policy');
-n.setAttribute('content', "script-src-elem 'unsafe-inline';");
-window.top.head.appendChild(n);
